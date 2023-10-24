@@ -7,3 +7,5 @@ aptos draw
 Meme, Gnosis zkSync
 
 =======================
+24.10 still MEME
+twitter
