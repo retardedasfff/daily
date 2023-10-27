@@ -9,3 +9,5 @@ Meme, Gnosis zkSync
 =======================
 24.10 still MEME
 twitter
+
+27.10 Layer0
