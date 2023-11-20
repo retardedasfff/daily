@@ -13,3 +13,6 @@ twitter
 27.10 Layer0
 
 06.11 stiil waiting for L0 to drop #:
+
+
+20/11 still not rich :D
