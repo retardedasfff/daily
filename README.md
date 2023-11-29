@@ -16,3 +16,5 @@ twitter
 
 
 20/11 still not rich :D
+
+29.11 fuck me
